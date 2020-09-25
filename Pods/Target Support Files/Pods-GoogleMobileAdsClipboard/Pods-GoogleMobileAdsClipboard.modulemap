@@ -1,0 +1,6 @@
+framework module Pods_GoogleMobileAdsClipboard {
+  umbrella header "Pods-GoogleMobileAdsClipboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
